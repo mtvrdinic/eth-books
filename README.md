@@ -1,5 +1,9 @@
 # Smart contract to sell used books
 
+## About
+This contract is written in Solidity and implements exchange between buyer and a seller. 
+
+
 ## Setting up
 
 _Truffle_
@@ -22,3 +26,4 @@ _Testing_
 ```
 truffle test
 ```
+
