@@ -2,7 +2,7 @@
 
 ## Setting up
 
-###Truffle
+_Truffle_
 ```
 npm install -g truffle
 ```
@@ -10,7 +10,7 @@ npm install -g truffle
 truffle migrate
 ```
 
-###Ganache
+_Ganache_
 ```
 npm install -g ganache-cli
 ```
@@ -18,7 +18,7 @@ npm install -g ganache-cli
 ganache-cli -p 7545
 ```
 
-###Testing
+_Testing_
 ```
 truffle test
 ```
